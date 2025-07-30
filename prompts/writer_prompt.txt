@@ -1,0 +1,10 @@
+Compose a research article using the provided research data. Structure it with:
+
+
+An introduction
+
+Clear section headings
+
+Logical transitions
+
+A conclusion Use professional tone and formatting.
